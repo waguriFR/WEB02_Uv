@@ -159,7 +159,7 @@ section.index .card .card-links {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 16px;
 }
 
 section.index .card .card-links ul {
@@ -183,7 +183,7 @@ section.index .card .card-links ul li a {
 }
 
 section.index .card .card-links ul li a:hover {
-    color: rgb(223 163 242);
+    color: #DFA3F2;
     text-decoration: none;
 }
 
@@ -222,7 +222,7 @@ section.index .card .card-links ul li a:hover {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 20px;
+        padding: 16px;
     }
     section.index .card .card-links ul {
         display: flex;
@@ -243,7 +243,7 @@ section.index .card .card-links ul li a:hover {
         transition: 0.3s;
     }
     section.index .card .card-links ul li a:hover {
-        color: rgb(223 163 242);
+        color: #DFA3F2;
         text-decoration: none;
     }
 }
